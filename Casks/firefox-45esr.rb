@@ -5,7 +5,6 @@ cask 'firefox-45esr' do
   url "https://download-installer.cdn.mozilla.net/pub/firefox/releases/#{version}esr/mac/en-US/Firefox%20#{version}esr.dmg"
   name 'Mozilla Firefox'
   homepage 'https://www.mozilla.org/en-US/firefox/organizations/'
-  license :mpl
 
   app 'Firefox.app'
 
